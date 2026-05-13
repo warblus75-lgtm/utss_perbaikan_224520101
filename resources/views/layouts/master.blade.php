@@ -9,13 +9,15 @@
 
 <nav class="navbar navbar-dark bg-dark navbar-expand-lg">
     <div class="container">
-        <a class="navbar-brand" href="#">
+
+        <a class="navbar-brand" href="/kendaraan">
             Sistem E-Bengkel
         </a>
 
         <a href="/kendaraan" class="btn btn-light">
             Daftar Servis
         </a>
+
     </div>
 </nav>
 

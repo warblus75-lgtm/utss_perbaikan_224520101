@@ -14,3 +14,5 @@ Route::get('/kendaraan/create', [KendaraanController::class, 'create']);
 Route::post('/kendaraan/store', [KendaraanController::class, 'store']);
 
 Route::delete('/kendaraan/delete/{id}', [KendaraanController::class, 'destroy']);
+
+Route::delete('/kendaraan/delete/{id}', [KendaraanController::class, 'destroy']);
